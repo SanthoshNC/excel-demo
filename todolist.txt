@@ -1,0 +1,5 @@
+#1 Get the college bus
+#2 Seminar for CSE IT
+#3 Handson Workshop for IT CSE
+#4 Make complaint about the students to Admin mam
+#5 Repeat the same with Principal Sir
